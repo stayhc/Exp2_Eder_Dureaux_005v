@@ -2,9 +2,13 @@
 
 Plugins necesarios:
 
--Ejecutar el comando npm install @ionic/storage
--Ejecutar el comando npm install @ionic/storage-angular
--Iniciar servidor con el comando ionic serve
+1. Ejecutar el comando npm install @ionic/storage
+
+2. Ejecutar el comando npm install @ionic/storage-angular
+
+3. Iniciar servidor con el comando ionic serve
+
 
 Integrante: Eder Dureaux Medina
+
 Proyecto: Compártelo
