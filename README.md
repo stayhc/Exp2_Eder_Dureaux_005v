@@ -1,4 +1,4 @@
-# Exp2_Eder_Dureaux_005v
+# Exp3_Eder_Dureaux_005v
 
 Plugins necesarios:
 
@@ -6,7 +6,9 @@ Plugins necesarios:
 
 2. Ejecutar el comando npm install @ionic/storage-angular
 
-3. Iniciar servidor con el comando ionic serve
+3. Iniciar servidor con el comando $ionic serve
+
+4. Correr test unitarios $npm run e2e
 
 
 Integrante: Eder Dureaux Medina
