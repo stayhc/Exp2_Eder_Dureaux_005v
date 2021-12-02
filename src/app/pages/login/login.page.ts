@@ -51,7 +51,7 @@ export class LoginPage implements OnInit {
    async presentToast(message:string, duration?:number){
     const toast = await this.toastController.create(
       {
-        message: 'Bienvenid@',
+        message: 'Bienvenido Eder',
         duration: 5000
       }
     );
